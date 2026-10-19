@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores where primary fails
+# but the secondary is not
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE  # should NOT have fired from the primary store

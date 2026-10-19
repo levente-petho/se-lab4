@@ -1,0 +1,3 @@
+# Create a ship with stocked torpedo stores where both fails
+GT4500,10,1.0,10,1.0
+TORPEDO,ALL  # should NOT have fired from any of the stores
