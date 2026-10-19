@@ -1,0 +1,4 @@
+# Create a ship which will run out after the second shot, after not being able to fire from secondary
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from primary store
+TORPEDO,SINGLE  # should NOT have fired from primary store
